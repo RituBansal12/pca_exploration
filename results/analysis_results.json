@@ -1,0 +1,13 @@
+{
+  "n_samples": 8950,
+  "n_features": 17,
+  "pca_var_2d": 47.611450960982125,
+  "pca_comp_95": 12,
+  "spca_var_2d": 47.611450960982125,
+  "spca_comp_95": "N/A (Sparse PCA doesn't optimize for variance)",
+  "pca_mse": 0.5238854903873414,
+  "spca_mse": 0.5239544825794951,
+  "pca_sparsity": 0.0,
+  "spca_sparsity": 5.88235294117647,
+  "conclusion": ""
+}
