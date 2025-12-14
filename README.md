@@ -2,6 +2,9 @@
 
 This project provides a comprehensive comparison between Principal Component Analysis (PCA) and Sparse PCA using credit card customer data. The analysis includes data preprocessing, dimensionality reduction, visualization, and interpretation of results.
 
+## Article 
+https://medium.com/@ritu.bansalrb00/pca-vs-sparse-pca-a-practical-guide-to-interpretable-dimensionality-reduction-775760461ad0
+
 ## Key Features
 
 - **Data Preprocessing**: Automatic handling of missing values and standardization

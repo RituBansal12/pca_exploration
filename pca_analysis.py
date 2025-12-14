@@ -103,7 +103,7 @@ def plot_pca_results(pca_result, title, filename):
     plt.close()
     logger.info(f"Saved {title} plot to {save_path}")
 
-def plot_feature_importance(pca, feature_names, title, filename, n_features=10):
+def plot_feature_importance(pca, feature_names, title, filename, n_features=17):
     """Plot feature importance for PCA components with top N features"""
     n_components = pca.components_.shape[0]
     
